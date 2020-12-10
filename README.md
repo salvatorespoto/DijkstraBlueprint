@@ -1,4 +1,4 @@
-# DijkstraBlueprint
+# Unreal Engine 4 Dijkstra Shortest Path Algorithm Blueprint
 
 A blueprint implementation of the Dijkstra shortest path algorithm on an exagonal grid.
 
